@@ -199,7 +199,7 @@ function updateTimeSlots() {
         
         slotElement.addEventListener('click', () => {
             if (!isAdminLoggedIn) {
-                alert('Entre em contato para agendar este horário:\nWhatsApp: (11) 99999-9999\nEmail: vitoria.nails@email.com');
+                alert('Entre em contato para agendar este horário:\nWhatsApp: (11) (11) 93702-7706');
             }
         });
         
