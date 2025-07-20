@@ -1,5 +1,5 @@
 // Configurações globais
-const ADMIN_PASSWORD = 'vitoria123'; // Senha para acesso administrativo
+const ADMIN_PASSWORD = '15112024'; // Senha para acesso administrativo
 let isAdminLoggedIn = false;
 let currentDate = new Date();
 let selectedDate = null;
