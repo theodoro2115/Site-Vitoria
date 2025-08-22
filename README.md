@@ -33,7 +33,7 @@ Integração com Redes Sociais - Acesso rápido ao Instagram/WhatsApp
 
 
 <p align="center">
-  <video src="video/vitoria-nail.mp4" autoplay muted playsinline width="100%">
+  <video src="video/Vitoria-nail.mp4" autoplay muted playsinline width="100%">
     Seu navegador não suporta a tag de vídeo HTML5.
   </video>
 </p>
