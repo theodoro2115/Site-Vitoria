@@ -28,7 +28,7 @@ Integração com Redes Sociais - Acesso rápido ao Instagram/WhatsApp
 
 ## 📽 Demonstração
 <p align="center">
-  <img src="video/vitoria-nail.gif" alt="Demonstração do Vitória Nail Design" width="700"/>
+  <img src="video/Vitoria.gif" alt="Demonstração do Vitória Nail Design" width="700"/>
 </p>
 
 
